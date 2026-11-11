@@ -2,7 +2,7 @@
 
 ## Présentation du projet
 
-le projet consiste à trier des nombres qui au départ sont rangés en déshordre et à partir de certaines instructions de trie les rangés de façon croissante.
+le projet consiste à trier des nombres qui au départ sont rangés en déshordre et à partir de certaines instructions de tri les rangés de façon croissante.
 
 ## Fonctionnalités (programme push-swap)
 
@@ -61,11 +61,11 @@ Après avoir ouvrie le dossier dans votre IDE, vous ouvrez le terminal de l'IDE 
 
 ## Tests
 
-Le programme contient des tests unitaires pour chaque fonction principal afin de vérifier leur bon fonctionnement. Pour les éxécuter, il suffit de saisir la commande suivante dans le terminal: go test ./...
-Vous avez aussi la posibilité de modifier les entrées et les attendus afin d'expérimenter, mieux comprendre leur fonctionnement et de découvrir les limites du code.
+- Le programme contient des tests unitaires pour chaque fonction principal afin de vérifier leur bon fonctionnement. Pour les éxécuter, il suffit de saisir la commande suivante dans le terminal: go test ./...
+- Vous avez aussi la posibilité de modifier les entrées et les attendus afin d'expérimenter, mieux comprendre leur fonctionnement et de découvrir les limites du code.
 
 
-## Instruction de trie
+## Instruction de tri
 
 - sa : échange les 2 premiers éléments de la pile a.
 - ra :  décale tous les éléments de la pile a d'une position vers le haut ; le premier
