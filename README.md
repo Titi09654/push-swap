@@ -6,42 +6,42 @@ le projet consiste à trier des nombres qui au départ sont rangés en déshordr
 
 ## Fonctionnalités (programme push-swap)
 
--Récupérer les nombres entiers transmis en arguments.
--Accepter les nombres positifs et négatifs.
--Gérer les arguments contenant plusieurs nombres séparés par des espaces.
--Vérifier que les arguments sont des nombres entiers.
--Détecter les doublons.
--Afficher Error en cas d'entrée invalide.
--Détecter si la pile est déjà triée et ne rien faire dans ce cas.
--Choisir une méthode de tri selon le nombre de valeurs.
--Générer les instructions nécessaires pour trier la pile A.
--Chercher à limiter le nombre d'instructions.
+- Récupérer les nombres entiers transmis en arguments.
+- Accepter les nombres positifs et négatifs.
+- Gérer les arguments contenant plusieurs nombres séparés par des espaces.
+- Vérifier que les arguments sont des nombres entiers.
+- Détecter les doublons.
+- Afficher Error en cas d'entrée invalide.
+- Détecter si la pile est déjà triée et ne rien faire dans ce cas.
+- Choisir une méthode de tri selon le nombre de valeurs.
+- Générer les instructions nécessaires pour trier la pile A.
+- Chercher à limiter le nombre d'instructions.
 
 ## Fonctionnalités (programme checker)
 
--Recevoir les nombres initiaux de la pile A.
--Lire les instructions depuis l'entrée standard (stdin).
--Exécuter les instructions sur les piles A et B.
--Vérifier que les instructions sont valides.
--Vérifier que la pile A est triée à la fin.
--Vérifier que la pile B est vide à la fin.
+- Recevoir les nombres initiaux de la pile A.
+- Lire les instructions depuis l'entrée standard (stdin).
+- Exécuter les instructions sur les piles A et B.
+- Vérifier que les instructions sont valides.
+- Vérifier que la pile A est triée à la fin.
+- Vérifier que la pile B est vide à la fin.
 
 ## Technologies
 
--Go 
--Github 
+- Go 
+- Github 
 
 ## Prérequis
 
--Une version récente du langage Go.
--Un IDE comme visual studio code.
+- Une version récente du langage Go.
+- Un IDE comme visual studio code.
 
 ## Instalation
 
--télécharger le fichier ZIP du projet.
--Extrayez son contenu dans un dossier.
--ouvrez le dossier du projet dans un IDE compatiple avec Go.
--assurez-vous que Go est installé sur votre ordinateur.
+- télécharger le fichier ZIP du projet.
+- Extrayez son contenu dans un dossier.
+- ouvrez le dossier du projet dans un IDE compatiple avec Go.
+- assurez-vous que Go est installé sur votre ordinateur.
 
 ## Lancement 
 
